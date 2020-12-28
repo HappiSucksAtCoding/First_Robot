@@ -1,1 +1,3 @@
-////
+term.write("Enter What The Robot Should Say: ")
+local depth = read()
+print("Finished!")
